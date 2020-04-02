@@ -1,3 +1,5 @@
+**WARNING**: This is a fork of the original repository here: https://github.com/yuin/gopher-lua
+
 
 ===============================================================================
 GopherLua: VM and compiler for Lua in Go.
